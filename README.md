@@ -10,7 +10,7 @@ Con un enfoque en **arquitectura de software**, lo que mejor se me da es diseña
 - **Lenguajes y tecnologías**: JavaScript, TypeScript, Node.js, Python, SQL, NoSQL, Docker, entre otros.
 - **Backend**: Diseño y desarrollo de APIs, integración de servicios, optimización de bases de datos y gestión de servidores.
 - **Arquitectura de software**: Diseño de arquitecturas escalables, patrones de diseño, microservicios.
-- 
+  
 ## 🌐 Conéctemos
 
 Puedes ver más sobre mi experiencia profesional y conectarte conmigo en mi perfil de [LinkedIn](https://www.linkedin.com/in/javiera-espina-m/).
