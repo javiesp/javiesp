@@ -1,4 +1,4 @@
-# 🧑‍💻 Javiera Espina - Desarrolladora Fullstack
+#🧑‍💻 Javiera Espina - Desarrolladora Fullstack
 ## 👩‍🎓 Sobre mí
 
 Soy **Javiera Espina**, una desarrolladora **Fullstack** con un año de experiencia profesional en el campo del desarrollo de software. Actualmente, estoy cursando el último año de la carrera de **Ingeniería en Informática**. Mi pasión por la tecnología y el desarrollo de soluciones escalables me ha llevado a especializarme en la parte de **backend** y, particularmente, en **arquitectura de software**.
