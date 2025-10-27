@@ -1,20 +1,39 @@
-#🧑‍💻 Javiera Espina - Desarrolladora Fullstack
-## 👩‍🎓 Sobre mí
+# 🧑‍💻 Javiera Espina
 
-Soy **Javiera Espina**, una desarrolladora **Fullstack**. Actualmente, estoy cursando el último año de la carrera de **Ingeniería en Informática**. Mi pasión por la tecnología y el desarrollo de soluciones escalables me ha llevado a especializarme en la parte de **backend** y, particularmente, en **arquitectura de software**.
-
-## 🏆 Experiencia y habilidades
-
-Con un enfoque en **arquitectura de software**, lo que mejor se me da es diseñar soluciones robustas y escalables, optimizando tanto el rendimiento como la mantenibilidad. Mi experiencia me ha permitido aprender y crecer tanto a nivel técnico como en el trabajo en equipo, un aspecto que valoro profundamente.
-
-- **Lenguajes y tecnologías**: JavaScript, TypeScript, Node.js, Python, SQL, NoSQL, Docker, entre otros.
-- **Backend**: Diseño y desarrollo de APIs, integración de servicios, optimización de bases de datos y gestión de servidores.
-- **Arquitectura de software**: Diseño de arquitecturas escalables, patrones de diseño, microservicios.
-  
-## 🌐 Conéctemos
-
-Puedes ver más sobre mi experiencia profesional y conectarte conmigo en mi perfil de [LinkedIn](https://www.linkedin.com/in/javiera-espina-m/).
+**Desarrolladora Fullstack** | Enfocada en **backend**, **arquitectura de software** y **soluciones escalables** 🚀
 
 ---
-> “Debes nombrar una variable con el mismo cuidado con el que nombras a un hijo primogénito”.  
-> ― Robert C. Martin, *Clean Code: A Handbook of Agile Software Craftsmanship*
+
+## 🛠️ Tecnologías y herramientas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javiesp&layout=compact&theme=radical&hide_border=false)  
+![GitHub Streak](https://streak-stats.demolab.com?user=javiesp&theme=radical&hide_border=false)
+
+</div>
+
+---
+
+## 🌐 Conectemos
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Javiera%20Espina-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/javiera-espina-m/)
+
+---
+
+> “Debes nombrar una variable con el mismo cuidado con el que nombras a un hijo primogénito.”  
+> — *Robert C. Martin*, *Clean Code*
